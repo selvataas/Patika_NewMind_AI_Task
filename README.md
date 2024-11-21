@@ -75,6 +75,8 @@ Farklı yaş gruplarının toplam satışlar içindeki oranları analiz edilmiş
 
 ### Kadın ve erkek müşterilerin harcama miktarları ve harcama davranışları arasındaki farkı:
 - Kadınların toplam harcaması, erkeklere kıyasla daha yüksektir. Bu, kadınların toplamda daha fazla harcama yaptığına işaret eder. Kadınlar toplamda daha fazla harcama yapmış, bu farkın büyük bir kısmı kadın sayısının erkeklerden fazla olmasıdır. Ortalama harcama değerlerine baktığımızda, kadınların başına düşen harcama erkeklere göre biraz daha yüksek. Ancak bu fark, oldukça küçüktür ve sadece 29,2 TL'lik bir fark vardır.
+  
+---
 
 #### Görev 4: İleri Düzey Veri Manipülasyonu
 
@@ -85,8 +87,22 @@ Farklı yaş gruplarının toplam satışlar içindeki oranları analiz edilmiş
 ### Satış verisinde her bir ürün için ortalama satış artışı oranı:
 
 Pozitif Değerler: Satışlarda genel bir artış trendini gösterir. Örneğin, P024 kodlu ürünün ortalama artışı %16.17.
+
 Negatif Değerler: Satışlarda düşüş trendini gösterir. Örneğin, P018 kodlu ürünün ortalama değişimi %-2.01.
 
 ### Pandas groupby ile her bir kategorinin aylık toplam satışları
 
  ![ Pandas groupby ile her bir kategorinin aylık toplam satışları](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/indir.png)
+ 
+---
+
+#### Görev 5: Ekstra 
+
+Tahmin Modeli:
+
+- tarih sütunu, pd.to_datetime fonksiyonu ile datetime formatına dönüştürülmüştür.
+- Yaş bilgisi kategorik bir değişken haline getirilerek modelde kullanılabilir hale getirilmiştir.
+- Modelin anlayabilmesi için kategorik değişkenlerin sayısallaştırdım:  Kategorik değişkenler (kategori, ürün_adi, cinsiyet, sehir), one-hot encoding yöntemiyle sayısal forma dönüştürülmüştür.
+- Özellik ve Hedef Değişkenlerin Hazırlanması:
+   Sayısal sütunlar: yıl, ay, fiyat, adet, yas, harcama_miktari.
+   One-hot encoding ile oluşturulan sütunlar: kategori_, ürün_adi_, cinsiyet_, sehir_ içeren sütunlar dinamik olarak eklenmiştir.
