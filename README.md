@@ -1,12 +1,12 @@
 ## Görev 1: Veri Temizleme ve Manipülasyonu
 
 ### 1. Hatalı Değerlerin Düzeltilmesi
-- **"fiyat" ve "toplam_satis"** sütunlarındaki sayıya dönüştürülemeyen değerler tespit edilmiştir.
-- **"toplam_satis"** sütunundaki hatalı girişler, **"fiyat"** ve **"adet"** çarpımıyla düzeltilmiştir.
-- **"fiyat"** sütunundaki hatalı girişler, sütunun medyan değeriyle doldurulmuştur.
+- **"fiyat" ve "toplam_satis"** sütunlarındaki sayıya dönüştürülemeyen değerler tespit ettim.
+- **"toplam_satis"** sütunundaki hatalı girişler, **"fiyat"** ve **"adet"** çarpımıyla düzelttim.
+- **"fiyat"** sütunundaki hatalı girişler, sütunun medyan değeriyle doldurdum.
 
 ### 2. Aykırı Değer Analizi
-Aşağıdaki sütunlar için aykırı değerler tespit edilmiştir:
+Aşağıdaki sütunlar için aykırı değerleri tespit ettim:
 - **Müşteri Yaşı (yas)**
 - **Müşteri Harcama Miktarı (harcama_miktari)**
 - **Satış Fiyatı (fiyat)**
@@ -14,16 +14,15 @@ Aşağıdaki sütunlar için aykırı değerler tespit edilmiştir:
 - **Satış Adedi (adet)**
 
 #### Aykırı Değer Analizinde Yapılan İşlemler:
-- Her bir sütun için aykırı değerlerin sayısı belirlenmiştir.
-- Alt ve üst sınırlar hesaplanmıştır.
+- Her bir sütun için aykırı değerlerin sayısını belirledim.
+- Alt ve üst sınırlar hesapladım.
 - **Winsorization İşlemi**:
-  - Alt ve üst sınırlar kullanılarak aykırı değerler belirli bir aralığa çekilmiştir.
+  - Alt ve üst sınırlar kullanılarak aykırı değerler belirli bir aralığa çektim.
 
 ---
 
 ## Görev 2: Zaman Serisi Analizi
 
-- Verilen zaman serisi verisinde belirli haftalarda pik değerler ve düşüşler analiz edilmiştir.
-- Pik noktalar ve düşüşlerin özellikleri belirlenmiş ve yorumlanmıştır.
+- Verilen zaman serisi verisinde belirli haftalarda pik değerler ve düşüşler analiz ettim.
 
 ---
