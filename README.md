@@ -46,5 +46,8 @@ Aşağıdaki sütunlar için aykırı değerleri tespit ettim:
 - En Çok Satan 3 Ürün - Aylık Satış Trendleri
 
   ![En Çok Satan 3 Ürün - Aylık Satış Trendleri](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/En%20%C3%87ok%20Satan%203%20%C3%9Cr%C3%BCn%20-%20Ayl%C4%B1k%20Sat%C4%B1%C5%9F%20Trendleri.png)
-  
+
+  #### pd.Grouper kullanarak ay bazında gruplayıp, her ay için ilk ve son satış gününü buldum. Her hafta satılan toplam ürün miktarını bulmak için:
+
+   ![Her hafta satılan toplam ürün miktarı](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/Haftal%C4%B1k%20Sat%C4%B1lan%20%C3%9Cr%C3%BCn%20Adedi.png)
 ---
