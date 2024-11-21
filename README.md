@@ -104,5 +104,9 @@ Tahmin Modeli:
 - Yaş bilgisi kategorik bir değişken haline getirilerek modelde kullanılabilir hale getirilmiştir.
 - Modelin anlayabilmesi için kategorik değişkenlerin sayısallaştırdım:  Kategorik değişkenler (kategori, ürün_adi, cinsiyet, sehir), one-hot encoding yöntemiyle sayısal forma dönüştürülmüştür.
 - Özellik ve Hedef Değişkenlerin Hazırlanması:
-   Sayısal sütunlar: yıl, ay, fiyat, adet, yas, harcama_miktari.
-   One-hot encoding ile oluşturulan sütunlar: kategori_, ürün_adi_, cinsiyet_, sehir_ içeren sütunlar dinamik olarak eklenmiştir.
+
+   - Sayısal sütunlar: yıl, ay, fiyat, adet, yas, harcama_miktari.
+   - One-hot encoding ile oluşturulan sütunlar: kategori_, ürün_adi_, cinsiyet_, sehir_ içeren sütunlar dinamik olarak eklenmiştir.
+
+- Sonuç: R² Skoru: 0.8777
+  0.8777 skoru, modelin hedef değişkendeki varyasyonun %87.77’sini açıkladığını ifade eder.
