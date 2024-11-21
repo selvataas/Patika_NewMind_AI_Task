@@ -79,5 +79,14 @@ Farklı yaş gruplarının toplam satışlar içindeki oranları analiz edilmiş
 #### Görev 4: İleri Düzey Veri Manipülasyonu
 
 - Şehirlerin sıralamasını, en çok harcama yapan müşterilere göre görebiliriz.
-Bölgesel Farklar: Adana, Bursa ve Konya gibi şehirlerde daha büyük harcamalar gözlemleniyor. Bu durum, bu şehirlerdeki belirli müşteri segmentlerinin veya ekonomik faaliyetlerin farklı olduğuna işaret edebilir. Bu şehirlerdeki yüksek harcamalar, belirli bir müşteri kitlesinin güçlü alım gücünü gösterebilir.
-Büyük Şehirlerin Durumu: İstanbul, İzmir, Antalya ve Ankara gibi büyük şehirlerdeki en yüksek harcama rakamları daha düşük. Bu şehirlerde genellikle daha fazla müşteri bulunduğu için, en yüksek harcama yapan müşteri sayılarının daha geniş bir gruptan geldiği düşünülebilir. Bu da, şehirdeki yoğunluk nedeniyle en fazla harcama yapan müşteri tutarlarının daha düşük olmasını açıklayabilir.
+- Bölgesel Farklar: Adana, Bursa ve Konya gibi şehirlerde daha büyük harcamalar gözlemleniyor. Bu durum, bu şehirlerdeki belirli müşteri segmentlerinin veya ekonomik faaliyetlerin farklı olduğuna işaret edebilir. Bu şehirlerdeki yüksek harcamalar, belirli bir müşteri kitlesinin güçlü alım gücünü gösterebilir.
+- Büyük Şehirlerin Durumu: İstanbul, İzmir, Antalya ve Ankara gibi büyük şehirlerdeki en yüksek harcama rakamları daha düşük. Bu şehirlerde genellikle daha fazla müşteri bulunduğu için, en yüksek harcama yapan müşteri sayılarının daha geniş bir gruptan geldiği düşünülebilir. Bu da, şehirdeki yoğunluk nedeniyle en fazla harcama yapan müşteri tutarlarının daha düşük olmasını açıklayabilir.
+
+### Satış verisinde her bir ürün için ortalama satış artışı oranı:
+
+Pozitif Değerler: Satışlarda genel bir artış trendini gösterir. Örneğin, P024 kodlu ürünün ortalama artışı %16.17.
+Negatif Değerler: Satışlarda düşüş trendini gösterir. Örneğin, P018 kodlu ürünün ortalama değişimi %-2.01.
+
+### Pandas groupby ile her bir kategorinin aylık toplam satışları
+
+ ![ Pandas groupby ile her bir kategorinin aylık toplam satışları](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/indir.png)
