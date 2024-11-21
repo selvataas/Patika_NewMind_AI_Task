@@ -57,3 +57,21 @@ Aşağıdaki sütunlar için aykırı değerleri tespit ettim:
     ![Aylık Toplam Satışlar - Değişimi](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/Ayl%C4%B1k%20Toplam%20Sat%C4%B1%C5%9Flar.png)
     
 ---
+
+## Görev 3: Kategorisel ve Sayısal Analiz 
+
+### Ürün kategorilerine göre toplam satış miktarı ve her kategorinin tüm satışlar içindeki oranı: 
+
+Elektronik kategorisi toplam satışların %48.6'sını oluşturuyor.Bu, bu kategorinin toplam satış üzerinde önemli bir paya sahip olduğunu gösteriyor. Ev Aletleri ve Giyim kategorileri sırasıyla %9.89 ve %10.42'lik paylarla daha düşük oranlarda satış yapıyor. Kırtasiye ve Mutfak Ürünleri kategorileri de sırasıyla %20.8 ve %10.25 oranlarında katkı sağlıyor. Bu tablo, satış miktarının büyük kısmının "Elektronik" kategorisinde olduğunu ve her kategorinin toplam satış içindeki yüzdesini göstermektedir.
+
+### Müşterilerin yaş gruplarına göre satış eğilimleri: 
+
+Farklı yaş gruplarının toplam satışlar içindeki oranları analiz edilmiştir. Satışlar, yas_grubu (yaş grubu) bazında gruplandırılmış ve her yaş grubunun toplam satışlardaki payı hesaplanmıştır.
+
+- 50+ yaş grubu en yüksek satışa sahip olup, toplam satışların %37.66’sını oluşturmuştur.
+- 36-50 yaş grubu, %29.84'lük oranla ikinci sırada yer almaktadır.
+- 26-35 yaş grubu toplam satışların %18.21'ini gerçekleştirirken, 18-25 yaş grubu en düşük satış oranına sahip olup, satışların %14.29’unu gerçekleştirmiştir.
+- Özellikle 50+ yaş grubu, satışlar açısından önemli bir segment olup, pazarlama stratejilerinin bu yaş grubuna yönelik güçlendirilmesi gerektiği anlaşılmaktadır.
+
+### Kadın ve erkek müşterilerin harcama miktarları ve harcama davranışları arasındaki farkı:
+- Kadınların toplam harcaması, erkeklere kıyasla daha yüksektir. Bu, kadınların toplamda daha fazla harcama yaptığına işaret eder. Kadınlar toplamda daha fazla harcama yapmış, bu farkın büyük bir kısmı kadın sayısının erkeklerden fazla olmasıdır. Ortalama harcama değerlerine baktığımızda, kadınların başına düşen harcama erkeklere göre biraz daha yüksek. Ancak bu fark, oldukça küçüktür ve sadece 29,2 TL'lik bir fark vardır.
