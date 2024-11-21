@@ -24,5 +24,7 @@ Aşağıdaki sütunlar için aykırı değerleri tespit ettim:
 ## Görev 2: Zaman Serisi Analizi
 
 - Verilen zaman serisi verisinde belirli haftalarda pik değerler ve düşüşler analiz ettim.
+- ![Haftalık Satış Trendi](Haftalık Satış Trendi - Pik ve Düşüş Noktaları.png)
+
 
 ---
