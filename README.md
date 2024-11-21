@@ -50,4 +50,10 @@ Aşağıdaki sütunlar için aykırı değerleri tespit ettim:
   #### pd.Grouper kullanarak ay bazında gruplayıp, her ay için ilk ve son satış gününü buldum. Her hafta satılan toplam ürün miktarını bulmak için:
 
    ![Her hafta satılan toplam ürün miktarı](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/Haftal%C4%B1k%20Sat%C4%B1lan%20%C3%9Cr%C3%BCn%20Adedi.png)
+
+  #### Zaman serisindeki trendler:
+  - Mavi: Negatif değişimi (düşüş) ifade eder. Kırmızı: Pozitif değişimi (artış) ifade eder.
+
+    ![Aylık Toplam Satışlar - Değişimi](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/Ayl%C4%B1k%20Toplam%20Sat%C4%B1%C5%9Flar.png)
+    
 ---
