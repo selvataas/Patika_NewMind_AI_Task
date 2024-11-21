@@ -75,3 +75,9 @@ Farklı yaş gruplarının toplam satışlar içindeki oranları analiz edilmiş
 
 ### Kadın ve erkek müşterilerin harcama miktarları ve harcama davranışları arasındaki farkı:
 - Kadınların toplam harcaması, erkeklere kıyasla daha yüksektir. Bu, kadınların toplamda daha fazla harcama yaptığına işaret eder. Kadınlar toplamda daha fazla harcama yapmış, bu farkın büyük bir kısmı kadın sayısının erkeklerden fazla olmasıdır. Ortalama harcama değerlerine baktığımızda, kadınların başına düşen harcama erkeklere göre biraz daha yüksek. Ancak bu fark, oldukça küçüktür ve sadece 29,2 TL'lik bir fark vardır.
+
+#### Görev 4: İleri Düzey Veri Manipülasyonu
+
+- Şehirlerin sıralamasını, en çok harcama yapan müşterilere göre görebiliriz.
+Bölgesel Farklar: Adana, Bursa ve Konya gibi şehirlerde daha büyük harcamalar gözlemleniyor. Bu durum, bu şehirlerdeki belirli müşteri segmentlerinin veya ekonomik faaliyetlerin farklı olduğuna işaret edebilir. Bu şehirlerdeki yüksek harcamalar, belirli bir müşteri kitlesinin güçlü alım gücünü gösterebilir.
+Büyük Şehirlerin Durumu: İstanbul, İzmir, Antalya ve Ankara gibi büyük şehirlerdeki en yüksek harcama rakamları daha düşük. Bu şehirlerde genellikle daha fazla müşteri bulunduğu için, en yüksek harcama yapan müşteri sayılarının daha geniş bir gruptan geldiği düşünülebilir. Bu da, şehirdeki yoğunluk nedeniyle en fazla harcama yapan müşteri tutarlarının daha düşük olmasını açıklayabilir.
