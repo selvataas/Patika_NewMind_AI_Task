@@ -25,7 +25,7 @@ Aşağıdaki sütunlar için aykırı değerleri tespit ettim:
 
 - Verilen zaman serisi verisinde belirli haftalarda pik değerler ve düşüşler analiz ettim.
 
-  ![Haftalık Satış Trendi](Haftalık Satış Trendi - Pik ve Düşüş Noktaları.png)
+  ![Haftalık Satış Trendi](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/Haftal%C4%B1k%20Sat%C4%B1%C5%9F%20Trendi%20-%20Pik%20ve%20D%C3%BC%C5%9F%C3%BC%C5%9F%20Noktalar%C4%B1.png)
 
 
 ---
