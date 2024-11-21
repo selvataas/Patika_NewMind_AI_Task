@@ -39,5 +39,12 @@ Aşağıdaki sütunlar için aykırı değerleri tespit ettim:
   
   ![En Popüler 3 Kategorinin Haftalık Satış Trendler](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/En%20Pop%C3%BCler%203%20Kategorinin%20Haftal%C4%B1k%20Sat%C4%B1%C5%9F%20Trendleri.png)
 
- 
+ - Aylık Veri Oluşturma
+   
+     ![Aylık Toplam Satış Trendi](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/Ayl%C4%B1k%20Toplam%20Sat%C4%B1%C5%9F%20Trendi.png)
+   
+- En Çok Satan 3 Ürün - Aylık Satış Trendleri
+
+  ![En Çok Satan 3 Ürün - Aylık Satış Trendleri](https://github.com/selvataas/Patika_NewMind_AI_Task/blob/master/En%20%C3%87ok%20Satan%203%20%C3%9Cr%C3%BCn%20-%20Ayl%C4%B1k%20Sat%C4%B1%C5%9F%20Trendleri.png)
+  
 ---
